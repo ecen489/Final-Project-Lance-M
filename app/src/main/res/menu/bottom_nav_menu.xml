@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/add_people"
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="@string/enter_riders" />
+
+    <item
+        android:id="@+id/add_pictures"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="@string/add_images" />
+    <item
+        android:id="@+id/show_compitition"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="@string/show_the_competition" />
+</menu>

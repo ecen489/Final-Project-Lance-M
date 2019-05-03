@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719107792096",
+    "firebase_url": "https://horseshow-6a964.firebaseio.com",
+    "project_id": "horseshow-6a964",
+    "storage_bucket": "horseshow-6a964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719107792096:android:b10fcb8832e52d8a",
+        "android_client_info": {
+          "package_name": "com.example.horseshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719107792096-5iv2blcosa8p4jtlvmped5ohbb0egm3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.horseshow",
+            "certificate_hash": "8d1ae6baceee764870fd706e482bb25dff644060"
+          }
+        },
+        {
+          "client_id": "719107792096-q5b8t1pktnp1v8nb37nj51ka6krn6m4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uwYkZgFzoa1hhXMGTUdHBkb9JB7QYE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719107792096-q5b8t1pktnp1v8nb37nj51ka6krn6m4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

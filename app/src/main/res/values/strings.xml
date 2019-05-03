@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HorseShow</string>
+    <string name="welcome">Enter Horse Competition name</string>
+    <string name="button1">Enter</string>
+    <string name="horse_rider">Enter Riders Name and Horses name</string>
+    <string name="button2">Save</string>
+    <string name="button3">Load</string>
+    <string name="dawelcome">Welcome to the Horse Show App </string>
+    <string name="logo">Horse on two legs with pretty background</string>
+    <string name="show_time">Ready to enter the Show?</string>
+    <string name="loading">Loading…</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="firebase_database_demo">Firebase DataBase Demo</string>
+    <string name="sign_out_main">sign out</string>
+    <string name="pull">Add Competitors</string>
+    <string name="signed_out_main">Signed Out</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign_in</string>
+    <string name="create_account">create_account</string>
+    <string name="verifyemail">Verifyemail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose">Choose</string>
+    <string name="enter_name_for_image">Enter name for Image</string>
+    <string name="view_uploads">View Uploads</string>
+    <string name="upload2">Upload</string>
+    <string name="go_back">Go Back</string>
+    <string name="upload">Upload</string>
+    <string name="take_a_pic">Take a Pic</string>
+    <string name="title_activity_bottom_navigation">bottom_navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_images">Add Images</string>
+    <string name="show_the_competition">Show the Competition</string>
+    <string name="enter_riders">Enter riders</string>
+
+
+</resources>
